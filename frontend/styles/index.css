@@ -1,16 +1,24 @@
 :root {
-  --body-background: #f2f2f2;
+  --body-background: #FFFAF3;
   --body-color: #444;
   --heading-color: black;
-  --action-color: #d64045;
+  --action-color: #8B297B;
 }
+
+@font-face {
+  font-family: 'Acme'; /* Choose a suitable name for your font */
+  src: url('../fonts/Acme-Regular.ttf') format('truetype'); /* Adjust the font format if necessary */
+  /* Add other font properties if needed, like font-weight and font-style */
+}
+
 
 body {
   background: var(--body-background);
   color: var(--body-color);
-  font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen",
+  /* font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    "Helvetica", "Arial", sans-serif;
+    "Helvetica", "Arial", sans-serif; */
+  font-family: 'Acme';
   margin: 0 8px;
   font-size: 108%;
   line-height: 1.5;
@@ -38,7 +46,7 @@ body > header {
 
 body > header img {
   display: inline-block;
-  width: 400px;
+  width: 240px;
   max-width: 100%;
 }
 
