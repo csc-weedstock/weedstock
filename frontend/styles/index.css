@@ -59,10 +59,19 @@ body > header {
   flex-flow: row wrap;
   justify-content: flex-end;
   align-items: center;
+
+  @media (max-width: 500px) {
+    flex-flow: column wrap;
+    margin: 2rem auto 1rem;
+  }
 }
 
 body > header a {
   margin: 0 auto 0 1rem;
+
+  @media (max-width: 500px) {
+    margin: 0 auto;
+  }
 }
 
 body > header img {
@@ -80,6 +89,10 @@ header > nav ul {
   gap: 1.5rem;
   font-size: 1.3rem;
   font-weight: bold;
+
+  @media (max-width: 500px) {
+    flex-flow: column wrap;
+  }
 }
 
 header > nav a {
@@ -114,6 +127,10 @@ hr {
 
 #flower {
   text-align: center;
+}
+
+#flower img {
+  max-width: 100%;
   filter: invert(1) hue-rotate(35deg) saturate(100%) brightness(97.9%);
   filter: invert(1) hue-rotate(98deg) saturate(100%) brightness(97.9%);
   margin-bottom: -3.4rem;

@@ -4,7 +4,7 @@
 layout: default
 ---
 
-# Gründung am 4/20 twenty-four, 4:20
+# 🌱 Gründung am 4/20 twenty-four, 4<sup><small>20</small></sup>
 
 ## Bei Interesse Mitglied bei uns zu werden und dich einzubringen, schreibe uns bitte eine [Email](vorstand@csc-weedstock.de).
 
