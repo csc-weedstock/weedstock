@@ -12,7 +12,7 @@ Dazu wollen wir uns am 420-Tag, den 20. April 2024, in Wittstock treffen, um uns
 
 ## Bei Interesse Mitglied bei uns zu werden und dich einzubringen, schreibe uns bitte eine [Email](mailto:kontakt@csc-weedstock.de).
 
-Wir haben für alle Teilnehmer der Gründungsversammlung auch schon ein kleines Geschenk vorbereitet :)
+Wir halten dich dann über das _Wie_ und _Wo_ auf dem Laufenden. Und für alle Teilnehmer der Gründungsversammlung haben wir auch schon ein kleines Geschenk vorbereitet :)
 
 Für weitere Informationen über die Gründung eines CSC kannst du [hier](https://www.ehrenamt24.de/wissen-fuer-vereine/vereinswiki/csc/){:target="_blank"} mehr Informationen finden. Wie die Satzung am Ende konkret gestaltet wird, hängt dabei vom konkreten, zu beschließenden Gesetzestextes ab.
 
