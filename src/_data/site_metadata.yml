@@ -4,8 +4,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.metadata.myvariable }}.
 
-title: CSC Weedstock e.V. i.G.
+title: CSC Weedstock
 tagline: Cannabis Social Club aus Wittstock
 email: kontakt@csc-weedstock.de
 description: >-
-  Die Webseite des Cannabis Social Clubs Weedstock e.V. aus Wittstock. Wir interessieren uns für Hanf als Medizin, Lebensmittel und Genussmittel.
+  Die Webseite des Cannabis Social Clubs Weedstock aus Wittstock. Wir interessieren uns für Hanf als Medizin, Lebensmittel und Genussmittel.

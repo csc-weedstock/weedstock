@@ -4,7 +4,7 @@ layout: default
 
 # Impressum
 
-CSC Weedstock e.V. i.G.<br>
+CSC Weedstock<br>
 Wittstock/Dosse
 
 Vertreten durch:<br>
