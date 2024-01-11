@@ -1,10 +1,13 @@
 <header>
-  <img src="{{ '/images/logo.png' | relative_url }}" alt="Logo" />
+  <a href="{{ '/' | relative_url }}">
+    <img src="{{ '/images/logo.png' | relative_url }}" alt="Logo" />
+  </a>
   <nav>
     <ul>
       <li><a href="{{ '/' | relative_url }}">Home</a></li>
-      <li><a href="{{ '/about' | relative_url }}">About</a></li>
-      <li><a href="{{ '/posts' | relative_url }}">Posts</a></li>
+      <li><a href="{{ '/ueber-uns' | relative_url }}">Über uns</a></li>
+      <!-- <li><a href="{{ '/posts' | relative_url }}">Posts</a></li> -->
+      <li><a href="https://molke.sternprodukt.de" target="_blank">Cloud</a></li>
     </ul>
   </nav>
 </header>

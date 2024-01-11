@@ -1,7 +1,7 @@
 :root {
   --body-background: #FFFAF3;
   --body-color: #444;
-  --heading-color: black;
+  --heading-color: #06651F;
   --action-color: #8B297B;
 }
 
@@ -25,6 +25,7 @@ body {
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     "Helvetica", "Arial", sans-serif; */
   font-family: 'Inter';
+  font-weight: 500;
   margin: 0 8px;
   font-size: 108%;
   line-height: 1.5;
@@ -60,11 +61,14 @@ body > header {
   align-items: center;
 }
 
+body > header a {
+  margin: 0 auto 0 1rem;
+}
+
 body > header img {
   /* display: inline-block; */
   width: 120px;
   max-width: 100%;
-  margin: 0 auto 0 1rem;
 }
 
 header > nav ul {
@@ -85,10 +89,10 @@ header > nav a {
 main {
   margin: 2rem auto 4rem;
   max-width: 65rem;
-  min-height: calc(100vh - 200px);
+  /* min-height: calc(100vh - 200px); */
   padding: 25px 25px 50px;
-  background: white;
-  box-shadow: 2px 3px 3px #ddd;
+  /* background: white; */
+  /* box-shadow: 2px 3px 3px #ddd; */
   border-radius: 3px;
 
   @media (max-width: 500px) {
@@ -106,4 +110,11 @@ hr {
   border: none;
   border-top: 2px dotted #bbb;
   margin: 3rem 0;
+}
+
+#flower {
+  text-align: center;
+  filter: invert(1) hue-rotate(35deg) saturate(100%) brightness(97.9%);
+  filter: invert(1) hue-rotate(98deg) saturate(100%) brightness(97.9%);
+  margin-bottom: -3.4rem;
 }
