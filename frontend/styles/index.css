@@ -50,18 +50,24 @@ h1 {
 }
 
 body > header {
+  max-width: 65rem;
+  margin: 2rem auto 4rem;
   font-family: 'Acme';
-  margin: 1rem;
   text-align: center;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+  align-items: center;
 }
 
 body > header img {
-  display: inline-block;
-  width: 240px;
+  /* display: inline-block; */
+  width: 120px;
   max-width: 100%;
+  margin: 0 auto 0 1rem;
 }
 
-body > nav ul {
+header > nav ul {
   margin: 2rem 0;
   padding: 0;
   list-style-type: none;
@@ -72,7 +78,7 @@ body > nav ul {
   font-weight: bold;
 }
 
-body > nav a {
+header > nav a {
   text-decoration: none;
 }
 
