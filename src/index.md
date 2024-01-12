@@ -14,7 +14,8 @@ Dazu werden wir uns am [420](https://de.wikipedia.org/wiki/420_(Cannabis-Kultur)
 
 Wir halten dich dann über das _Wie_ und _Wo_ auf dem Laufenden. Und für alle Teilnehmer der Gründungsversammlung haben wir auch schon ein kleines Geschenk vorbereitet :)
 
-Für weitere Informationen über die Gründung eines CSC kannst du [hier](https://www.ehrenamt24.de/wissen-fuer-vereine/vereinswiki/csc/){:target="_blank"} und beim [CSC Dachverband](https://csc-dachverband.de/){:target="_blank" } mehr Informationen finden. Wie die Satzung am Ende konkret gestaltet wird, hängt dabei vom konkreten, zu beschließenden Gesetzestextes ab.
+Beim [CSC Dachverband](https://csc-dachverband.de/){:target="_blank" } findest du noch viele weitere Informationen zu Cannabis Social Clubs.
+Für weitere vereinsrechtliche Informationen über die Gründung eines CSC kannst du [hier](https://www.ehrenamt24.de/wissen-fuer-vereine/vereinswiki/csc/){:target="_blank"} weiterlesen. Wie die Satzung am Ende allerdings konkret gestaltet wird, hängt dabei vom konkreten, zu beschließenden Gesetzestextes ab.
 
 ![Die Saat ist gelegt](/images/flower.gif)
 {:id="flower"}
