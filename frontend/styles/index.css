@@ -155,6 +155,7 @@ figure.centered, img.centered {
   figcaption {
     font-style: italic;
     line-height: 1;
+    text-align: right;
   }
 }
 
