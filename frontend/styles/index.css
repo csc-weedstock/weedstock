@@ -139,13 +139,22 @@ hr {
   margin-bottom: -3.4rem;
 }
 
-img.centered {
+figure.centered {
   max-width: 600px;
   margin: 0 auto;
   display: block;
 
-  @media (max-width: 500px) {
-    max-width: 100%;
+  img {
+    max-width: 600px;
+
+    @media (max-width: 500px) {
+      max-width: 100%;
+    }
+  }
+
+  figcaption {
+    font-style: italic;
+    line-height: 1;
   }
 }
 

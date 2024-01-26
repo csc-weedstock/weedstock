@@ -3,7 +3,12 @@ layout: page
 title: Über uns
 ---
 
-![Jan und Wilhelm vor einem Hanffeld](/images/zempow.jpg){: #we .centered}
+<figure class="centered">
+    <img src="/images/zempow.jpg"
+         alt="Jan und Wilhelm vor einem Hanffeld"
+         id="we">
+    <figcaption>Foto © Luke Monroy</figcaption>
+</figure>
 
 Wir sind bisher zu zweit. Jan ist seit 2017 Cannabis-Patient und hat sich die letzten Jahren vor allem mit Nutzhanf beschäftigt. Wilhelm baut seit 2015 in Zempow auf seinem Betrieb Hanf an.
 
