@@ -139,7 +139,7 @@ hr {
   margin-bottom: -3.4rem;
 }
 
-figure.centered {
+figure.centered, img.centered {
   max-width: 600px;
   margin: 0 auto;
   display: block;
