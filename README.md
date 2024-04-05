@@ -1,6 +1,6 @@
 # CSC Weedstock
 
-Website of the (upcoming) Cannabis Social Club Weedstock at the Prigitz.
+Website of the (upcoming) Cannabis Social Club Weedstock at the Prignitz.
 
 ## Deployment
 
