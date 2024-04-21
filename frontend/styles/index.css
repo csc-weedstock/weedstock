@@ -141,7 +141,7 @@ hr {
 
 figure.centered, img.centered {
   max-width: 600px;
-  margin: 0 auto;
+  margin: 4rem auto;
   display: block;
 
   img {

@@ -4,6 +4,18 @@
 layout: default
 ---
 
+# Der Cannabis Social Club Weedstock wurde gegründet 🌱
+
+Wir haben uns am 20. April pünktlich um 16:20 an der verabredeten Stelle getroffen, um unseren Plan umzusetzen, den CSC Weedstock zu gründen. Bei Tee und Gebäck haben wir unsere [Satzung](files/20240420_Satzung.pdf) und die [Beitragsordnung](files/20240420_Beitragsordnung.pdf) beschlossen. Zum Vorstand haben die acht Gründungsmitglieder Dr. Wilhelm Schäkel, Heiko Biewald und Jan Paki gewählt. Wo Waldo war konnten wir übrigens nicht herausfinden.
+
+Anschließend haben wir uns noch über die allgemeine Ausrichtung des Vereins unterhalten und wir waren uns einig, dass wir den Outdoor-Anbau von Cannabis unter natürlichem Sonnenlicht bevorzugen und dies als Produktionsmethode anstreben wollen. Mit den beschlossenen Formalien haben wir nun eine solide Grundlage um erst die Anmeldung beim Amtsgericht und anschließend die Anbaugenehmigung zu erhalten.
+
+Bis dahin wollen wir gerne allen interessierten (Outdoor-)Eigenanbauern offen stehen, um sich auszutauschen und für eine erfolgreiche Erntekampagne im Herbst vorzusorgen. Wer Mitglied werden will, kann sich gerne bei uns [per Email](mailto:kontakt@csc-weedstock.de) melden.
+
+![Ein Bild von Waldo](/images/waldo.webp){: class="centered" width="200" }
+
+---
+
 # 🌱 Gründungs&shy;versammlung am 4/20 twenty-four, 4<sup><small>20</small></sup>
 
 Mit einem [Cannabis Social Club](https://csc-dachverband.de/csc-cannabis-social-clubs-definition/){:target="_blank"} wollen wir engagierte Leute zusammenbringen, die sich mit Hanf als Medizin, Lebensmittel und Genussmittel beschäftigen wollen. Damit wollen [wir](/ueber-uns) dazu beitragen, diese Pflanze von ihrem Stigma zu befreien.
