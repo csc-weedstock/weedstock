@@ -13,7 +13,7 @@ Wenn du Mitglied werden willst, bist du herzlich willkommen. Wir haben aus unser
 
 * [Satzung vom 20.04.2024](/files/20240420_Satzung.pdf)
 * [Beitragsordnung vom 20.04.2024](/files/20240420_Beitragsordnung.pdf)
-* *TODO* Aufnahmeantrag 
+* [Aufnahmeantrag](/files/Aufnahmeantrag.pdf)
 
 ## Vorstand
 

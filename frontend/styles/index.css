@@ -55,7 +55,7 @@ h1 {
 
 body > header {
   max-width: 65rem;
-  margin: 2rem auto 4rem;
+  margin: 2rem auto 0;
   font-family: 'Acme';
   text-align: center;
   display: flex;
@@ -65,7 +65,7 @@ body > header {
 
   @media (max-width: 500px) {
     flex-flow: column wrap;
-    margin: 2rem auto 1rem;
+    margin: 2rem auto 0;
   }
 }
 
