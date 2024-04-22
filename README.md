@@ -1,11 +1,10 @@
-# CSC Weedstock
+# Website of CSC Weedstock e.V.
 
-Website of the (upcoming) Cannabis Social Club Weedstock at the Prignitz.
+The Cannabis Social Club Weedstock e.V. was founded on April 20th, 2024 in the German city of Wittstock. This is it's website build with Brigdetown and deployed via Github.
 
 ## Deployment
 
-Push to github (via Vercel)
-
+via github actions.
 
 ## Prerequisites
 
