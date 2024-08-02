@@ -11,7 +11,7 @@ Wenn du Mitglied werden willst, bist du herzlich willkommen. Wir haben aus unser
 
 ## Dokumente
 
-* [Satzung vom 20.04.2024](/files/20240420_Satzung.pdf)
+* [Satzung vom 20.04.2024](/files/Satzung_eV.pdf)
 * [Beitragsordnung vom 20.04.2024](/files/20240420_Beitragsordnung.pdf)
 * [Aufnahmeantrag](/files/Aufnahmeantrag.pdf)
 
