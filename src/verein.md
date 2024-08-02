@@ -7,13 +7,10 @@ Wir sind ein Cannabis Social Club und eine Cannabis-Anbaugemeinschaft nach deuts
 
 Wenn du Mitglied werden willst, bist du herzlich willkommen. Wir haben aus unserer Gründungsversammlung einen Mitgliedsbeitrag von 10€/Monat beschlossen.
 
-*Im Moment befinden wir uns noch im Gründungsprozess, d.h. wir warten noch auf die Eintragung beim Amtsgericht.*
+## Cannabis Social Club Weedstock e.V.
 
-## Dokumente
-
-* [Satzung vom 20.04.2024](/files/Satzung_eV.pdf)
-* [Beitragsordnung vom 20.04.2024](/files/20240420_Beitragsordnung.pdf)
-* [Aufnahmeantrag](/files/Aufnahmeantrag.pdf)
+Vereinsregister: Amtsgericht Neuruppin<br>
+Registernummer: VR 5621 NP
 
 ## Vorstand
 
@@ -25,7 +22,13 @@ Wenn du Mitglied werden willst, bist du herzlich willkommen. Wir haben aus unser
 
 E-Mail: [kontakt@csc-weedstock.de](mailto:kontakt@csc-weedstock.de)
 
-
 ![Position von Wittstock in Brandenburg](/images/karte.jpg){:class="centered"}
 
 Unser Vereingsgebiet ist die Ostprignitz mit Sitz in Wittstock/Dosse.
+
+## Dokumente
+
+* [Satzung vom 20.04.2024](/files/Satzung_eV.pdf)
+* [Beitragsordnung vom 20.04.2024](/files/20240420_Beitragsordnung.pdf)
+* [Aufnahmeantrag](/files/Aufnahmeantrag.pdf)
+
