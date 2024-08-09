@@ -4,6 +4,23 @@
 layout: default
 ---
 
+# Eintragung beim Vereinsgericht und erste Mitgliederversammlung am 15. August
+
+Heute ist nun endlich die lang ersehnte Post vom Amtsgericht eingetroffen, dass unsere [Satzung](/files/Satzung_eV.pdf) eingetragen wurde. Dies und vieles weitere können wir besprechen, wenn wir uns zu unserer ersten Mitgliederversammlung nach der Gründung treffen, wozu ich alle Mitglieder und Interessierte herzlich einlade!
+
+Wir treffen uns am *15.08.2024* von *19.00 - 21.00* Uhr im *Haus der Vereine am Gröper Tor* (Gröperstraße 20, 16909 Wittstock/Dosse) und freuen uns über rege Teilnahme. Wer dabei sein will, schreibe bitte vorher noch eine [Email](mailto:vorstand@csc-weedstock.de), damit wir besser planen können.
+
+Auf der Tagesordnung stehen unter anderem:
+
+ * Austausch über unsere bisherigen Anbaubemühungen und Erfahrungen
+ * Planung des Antrags zur Lizenzvergabe für den gemeinschaftlichen Eigenanbau
+ * Diskussion und Planung weiterer Veranstaltungen
+ * Offene Gesprächsrunde für Fragen und Anregungen der Mitglieder
+
+Wir freuen uns auf einen produktiven und inspirierenden Abend mit euch allen!
+
+---
+
 # Der Cannabis Social Club Weedstock wurde gegründet! 🌱
 
 Wir haben uns am 20. April pünktlich um 16:20 an der verabredeten Stelle getroffen, um unseren Plan umzusetzen, den CSC Weedstock zu gründen. Bei Tee und Gebäck haben wir unsere [Satzung](files/20240420_Satzung.pdf) und die [Beitragsordnung](files/20240420_Beitragsordnung.pdf) beschlossen und anschließend einen Vorstand gewählt. Wo Waldo war, konnte dabei nicht in Erfahrung gebracht werden.
