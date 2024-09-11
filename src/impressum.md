@@ -4,7 +4,7 @@ layout: default
 
 # Impressum
 
-## Angaben gemäß § 5 TMG
+## Angaben gemäß § 5 DDG
 
 Cannabis Social Club Weedstock e.V.
 16909 Wittstock/Dosse
@@ -23,9 +23,8 @@ E-Mail: kontakt@csc-weedstock.de
 ## Postanschrift
 
 CSC Weedstock e.V.<br>
-c/o Onkel-Emma-Laden<br>
-Königstr. 13<br>
-16909 Wittstock/Dosse
+Birkenallee 12<br>
+16909 Wittstock/Dosse OT Zempow
 
 ## EU-Streitschlichtung
 
