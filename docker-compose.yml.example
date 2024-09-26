@@ -1,0 +1,20 @@
+services:
+  frontend:
+    container_name: weedstock_bridgetown
+    image: ghcr.io/yuszuv/weedstock-bridgetown:latest
+    labels:
+      traefik.enable: "true"
+      traefik.http.routers.weedstock_bridgetown.entrypoints: websecure
+      traefik.http.routers.weedstock_bridgetown.rule: Host(`csc-weedstock.de`) || Host(`www.csc-weedstock.de`)
+      traefik.http.routers.weedstock_bridgetown.tls: "true"
+      traefik.http.routers.weedstock_bridgetown.tls.certresolver: http_resolver
+      traefik.http.routers.weedstock_bridgetown.service: weedstock_bridgetown
+      traefik.http.services.weedstock_bridgetown.loadbalancer.server.port: "8043"
+      traefik.docker.network: proxy
+      traefik.http.routers.weedstock_bridgetown.middlewares: default@file
+    networks:
+      - proxy
+
+networks:
+  proxy:
+    external: true
