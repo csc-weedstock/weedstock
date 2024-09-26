@@ -44,6 +44,20 @@ a {
   text-decoration-color: var(--dark-green);
 }
 
+a.btn {
+  color: var(--body-background);
+  background-color: var(--action-color);
+  text-decoration: none;
+  border: 1px solid var(--darker-purple);
+  border-radius: 4px;
+  padding: 8px;
+  display: inline-block;
+}
+
+a.btn:hover {
+  background-color: var(--darker-purple);
+}
+
 h1 {
   margin: 1rem 0 3rem;
   text-align: center;
