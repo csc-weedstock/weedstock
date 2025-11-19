@@ -8,6 +8,12 @@ RUN yarn run esbuild
 
 # Generate your site content as HTML
 FROM ruby:alpine as bridgetown_builder
+RUN apk add --no-cache \
+    build-base \
+    linux-headers \
+    libffi-dev \
+    pkgconfig
+
 ENV BRIDGETOWN_ENV=production
 WORKDIR /app
 RUN apk add --no-cache build-base
