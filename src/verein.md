@@ -5,10 +5,6 @@ title: Verein
 
 Wir sind ein Cannabis Social Club und eine Cannabis-Anbaugemeinschaft nach deutschem Vereinsrecht. Mehr zu unseren Vereinszielen und wie wir sie (formal) umsetzen, findest du in unserer Satzung. Wie und wann wir (konkret) Hanf und Cannabis anbauen werden, steht im Moment noch nicht fest und hängt vom Genehmigungsverfahren (bei einer bisher nicht benannten Behörde) ab. Fest steht, dass wir anstreben, Cannabis outdoor anzubauen.
 
-Wenn du Mitglied werden willst, bist du herzlich willkommen. Wir haben aus unserer Gründungsversammlung einen Mitgliedsbeitrag von 10€/Monat beschlossen. Über unser Online-Formular kannst du ganz einfach beitreten.
-
-[Online-Beitritts-Formular](/mitmachen){:class="btn"}
-
 ## Cannabis Social Club Weedstock e.V.
 
 Vereinsregister: Amtsgericht Neuruppin<br>
