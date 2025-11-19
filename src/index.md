@@ -10,6 +10,8 @@ Leider müssen wir mitteilen, dass wir es nicht auf die Kette kriegen, unseren V
 
 Wir würden uns aber freuen, wenn sich Leute finden, die Lust auf Vorstandstätigkeit haben und gerne den Verein "übernehmen" würden. Schreibt uns gerne eine [Email](mailto:vorstand@csc-weedstock.de) falls ihr euch vorstellen könnt, den Verein weiterzuentwickeln.
 
+---
+
 # Eintragung beim Vereinsgericht und erste Mitgliederversammlung am 15. August
 
 Heute ist nun endlich die lang ersehnte Post vom Amtsgericht eingetroffen, dass unsere [Satzung](/files/Satzung_eV.pdf) eingetragen wurde. Dies und vieles weitere können wir besprechen, wenn wir uns zu unserer ersten Mitgliederversammlung nach der Gründung treffen, wozu ich alle Mitglieder und Interessierte herzlich einlade!
