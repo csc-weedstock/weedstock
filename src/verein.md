@@ -12,9 +12,9 @@ Registernummer: VR 5621 NP
 
 ## Vorstand
 
-* Dr. Wilhelm Schäkel (Vorsitzender)
-* Heiko Biewald (stellv. Vorsitzender)
-* Jan Paki (Schatzmeister)
+* Oliver Waack-Jürgensen (Vorsitzender)
+* Ferdinand Siebert (stellv. Vorsitzender)
+* Maximilian Reichardt (Schatzmeister)
 
 ## Kontakt
 
