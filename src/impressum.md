@@ -10,9 +10,9 @@ Cannabis Social Club Weedstock e.V.
 16909 Wittstock/Dosse
 
 Vertreten durch:
-* Dr. Wilhelm Schäkel (Vorsitzender)
-* Heiko Biewald (stellv. Vorsitzender)
-* Jan Paki (Schatzmeister)
+* Oliver Waack-Jürgensen (Vorsitzender)
+* Ferdinand Siebert (stellv. Vorsitzender)
+* Maximilian Reichardt (Schatzmeister)
 
 Die Vorstände sind jeweils einzeln vertretungsberechtigt.
 
